@@ -1,0 +1,20 @@
+/* relayNs:src\testModule\firstPage.m.vue.css */
+.test-module__wrap[data-v-fdfa2343] {
+  text-align: center;
+}
+.test-module__wrap .test-module__title[data-v-fdfa2343] {
+  margin-top: 280px;
+  text-align: center;
+  font-size: 28px;
+  color: #017dfc;
+  font-family: "PingFang SC";
+}
+.test-module__wrap .test-module__title .test-module__content[data-v-fdfa2343] {
+  color: pink;
+  font-weight: normal;
+}
+.test-module__wrap .test-module__age[data-v-fdfa2343] {
+  font-size: 16px;
+  color: coral;
+  text-align: center;
+}

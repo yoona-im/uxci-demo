@@ -1,0 +1,27 @@
+/* relayNs:src\testModule\testModule1.m.vue.css */
+.test-module__wrap[data-v-07fa088b] {
+  text-align: center;
+}
+.test-module__wrap .test-module__title[data-v-07fa088b] {
+  margin-top: 280px;
+  text-align: center;
+  font-size: 28px;
+  color: #017dfc;
+  font-family: "PingFang SC";
+}
+.test-module__wrap .test-module__title .test-module__content[data-v-07fa088b] {
+  color: pink;
+  font-weight: normal;
+}
+.test-module__wrap .test-module__age[data-v-07fa088b] {
+  font-size: 16px;
+  color: coral;
+  text-align: center;
+}
+
+/* relayNs:src\widget\widgetComp.vue.css */
+.widget-slogan[data-v-4e51c99c] {
+  font-size: 16px;
+  text-align: center;
+  color: burlywood;
+}

@@ -1,0 +1,11 @@
+// @import "../assets/iconfont/iconfont.css";
+// 目前框架路径引入有问题，需外层加../
+@import "../assets/iconfont/iconfont.css";
+@import "./common.scss";
+// @import "./test/test.css";
+.el-form-item::v-deep .el-form-item__label {
+    font-weight: normal !important;
+} 
+.bg {
+    background-color: pink;
+}

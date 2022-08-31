@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/utils/index.m.js"],"sourcesContent":["export const sum = (x, y) =\u003e {\n    return x + y;\n}"],"mappings":";;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,MAAM,CAAC,GAAG,MAAM;AACzB,WAAO,IAAI;AAAA,EACf;;","names":[]}

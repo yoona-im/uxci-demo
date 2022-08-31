@@ -1,0 +1,54 @@
+{
+  "id": "app1",
+  "name": "测试应用",
+  "icon": "zmdi zmdi-storage",
+  "items": [
+    {
+      "id": "menu1",
+      "name": "示例",
+      "icon": "zmdi zmdi-cloud-box bgm-gray",
+      "platform": 1023,
+      "items": [
+        {
+          "id": "vueComp1",
+          "name": "单文件Vue示例",
+          "icon": "zmdi zmdi-cloud-box bgm-gray",
+          "platform": 1023,
+          "url": "views/demo/testModule.js",
+          "properties": {
+            "moduleType": "iife",
+            "moduleName": "views.demo.testModule",
+            "loader": "vue2",
+            "particle": "module"
+          }
+        },
+        {
+          "id": "example1",
+          "name": "示例页面1",
+          "icon": "zmdi zmdi-cloud-box bgm-gray",
+          "platform": 1023,
+          "url": "views/demo/example1.js",
+          "properties": {
+            "moduleType": "iife",
+            "moduleName": "views.demo.example1",
+            "loader": "vue2",
+            "particle": "module"
+          }
+        },
+        {
+          "id": "example2",
+          "name": "示例页面2",
+          "icon": "zmdi zmdi-cloud-box bgm-gray",
+          "platform": 1023,
+          "url": "views/demo/example2.js",
+          "properties": {
+            "moduleType": "iife",
+            "moduleName": "views.demo.example2",
+            "loader": "vue2",
+            "particle": "module"
+          }
+        }
+      ]
+    }
+  ]
+}
